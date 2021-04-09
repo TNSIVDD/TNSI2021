@@ -1,2 +1,13 @@
-# TNSI2021
-Dépôt des Terminales NSI du lycée VDD 
+# Dépot notebook Jupyter - Terminale NSI 2021 - VDD
+
+### Ce dépot a été créé pour mes élèves de Terminale NSI (2020-2021).
+
+Il contient des notebook python de cours et de TD
+
+<br>
+
+Cliquez sur le lien Binder pour accéder à un environnement Python/Jupyter en ligne
+
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TNSIVDD/TNSI2021/HEAD)
